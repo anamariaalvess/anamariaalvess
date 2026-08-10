@@ -1,10 +1,10 @@
-# Olá, sou Ana Maria Alves 👋
+# Olá, sou Ana Maria Alves 
 
 **Cientista de Dados | Doutora em Matemática | Machine Learning | Modelagem Estatística, Risco de Crédito, Analytics e MLOps**
 
-Sou cientista de dados e doutora em Matemática pela Universidade Federal de Goiás, com experiência em Business Intelligence, análise de dados, engenharia de dados, modelagem estatística, risco de crédito e monitoramento de modelos.
+Sou cientista de dados e doutora em Matemática pela Universidade Federal de Goiás, com experiência em Business Intelligence, modelos de machine learning, análise de dados, engenharia de dados, modelagem estatística, risco de crédito e monitoramento de modelos.
 
-Minha trajetória profissional começou com o desenvolvimento de produtos analíticos e dashboards voltados à gestão de negócios — soluções para vendas, faturamento, comportamento de clientes, inadimplência, gestão financeira, estoques e planejamento de compras. Posteriormente, ampliei minha atuação para projetos de integração de dados, ETL, bancos de dados, automação de análises, aplicações com inteligência artificial e desenvolvimento de modelos de machine learning.
+Minha trajetória profissional começou com o desenvolvimento de produtos analíticos e dashboards voltados à gestão de negócios — soluções para vendas, faturamento, comportamento de clientes, inadimplência, gestão financeira, estoques e planejamento de compras. Posteriormente, ampliei minha atuação para projetos de integração de dados, ETL, bancos de dados, automação de análises e desenvolvimento de modelos de machine learning.
 
 Atualmente, combino conhecimentos matemáticos, estatísticos, tecnológicos e de negócio para transformar dados em indicadores, modelos e soluções analíticas confiáveis, reproduzíveis e orientadas à tomada de decisão.
 
@@ -122,22 +122,6 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 ---
 
 
-## 🚀 Projetos em destaque
-
-### Natural Language to SQL
-Aplicação para conversão de perguntas em linguagem natural em consultas SQL, com integração a modelo de linguagem (ChatGPT) e execução automática em banco PostgreSQL, retornando resultado e query ao usuário.
-`Python` `SQL` `PostgreSQL` `LLM` `APIs`
-
-### Análise de dados através de modelos de regressão
-Modelos de regressão linear e k-vizinhos mais próximos aplicados a dados de renda per capita e satisfação da população; análise comparativa de eficácia preditiva. Inclui também previsão de lucro (regressão linear) e de aumento/redução de lucro (regressão logística) a partir de dados de faturamento.
-`Python` `Regressão Linear` `KNN` `Regressão Logística`
-
-### Análise de dados demográficos
-Exploração de estrutura, tipos de dados e valores ausentes; formulação de perguntas de negócio respondidas com visualizações, consolidadas em relatório PDF.
-`Python` `EDA` `Visualização de dados`
-
----
-
 ## 🎓 Formação acadêmica
 
 * **Especialização em Data Science e Estatística Aplicada** — UFG *(habilidades: estatística aplicada, programação, banco de dados, big data)*
@@ -146,10 +130,18 @@ Exploração de estrutura, tipos de dados e valores ausentes; formulação de pe
 * **Bacharelado em Matemática** — UFG *(lógica, equações diferenciais, EDOs, geometria)*
 
 ---
+## 📜 Certificados
+* **Academy Accreditation - AI Agent Fundamentals** — Código da credencial 189638001
+* **Academy Accreditation - Generative AI Fundamentals** — Código da credencial 189636891
+* **Academy Accreditation - Databricks Fundamentals** — Código da credencial 189633440
+
+---
 
 ## 📚 Formação complementar
 
-* CPA-20 — ANBIMA
+* DENG-156: Introducing Cloudera Data Warehouse — Cloudera
+* Cloudera Data Science Workbench Training — Cloudera
+* DENG-159 Cloudera Operation Database Fundamentals — Cloudera
 * MLflow: gestão do ciclo de vida de modelos de Machine Learning — Alura
 * Power BI Aplicado a Negócios — Grupo Voitto
 * Data Analysis with Python — freeCodeCamp

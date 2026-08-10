@@ -130,7 +130,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * **Bacharelado em Matemática** — UFG *(lógica, equações diferenciais, EDOs, geometria)*
 
 ---
-## 📜 Certificados
+## 📜 Certificações
 * **Academy Accreditation - AI Agent Fundamentals** — Código da credencial 189638001
 * **Academy Accreditation - Generative AI Fundamentals** — Código da credencial 189636891
 * **Academy Accreditation - Databricks Fundamentals** — Código da credencial 189633440

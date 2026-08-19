@@ -10,7 +10,7 @@ Atualmente, combino conhecimentos matemáticos, estatísticos, tecnológicos e d
 
 > Os projetos profissionais nos quais atuei envolvem dados, regras e informações corporativas confidenciais. Por isso, os projetos públicos deste perfil utilizam dados públicos ou sintéticos para demonstrar metodologias equivalentes, sem expor informações das organizações.
 
----
+-
 
 ## 🧭 Objetivos profissionais
 
@@ -21,7 +21,7 @@ Atualmente, combino conhecimentos matemáticos, estatísticos, tecnológicos e d
 * Explorar e aplicar conhecimentos matemáticos, estatísticos e de machine learning em melhoria contínua.
 * Contribuir para ambientes colaborativos de aprendizado contínuo.
 
----
+-
 
 ## 💼 Experiência profissional
 ### Cientista de Dados — Indra Group
@@ -64,7 +64,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * Stack: Python, JavaScript, HTML, CSS, SQL, Docker.
 * Plataforma de ensino online para onboarding e capacitação dos usuários do produto.
 
----
+-
 
 ## 🎯 Áreas de atuação
 
@@ -82,7 +82,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * MLOps e rastreabilidade de experimentos
 * Storytelling e comunicação de resultados
 
----
+-
 
 ## 🛠️ Tecnologias
 
@@ -117,7 +117,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
----
+-
 
 
 ## 🎓 Formação acadêmica
@@ -127,7 +127,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * **Mestrado em Matemática** — UFG *(sistemas dinâmicos, ciclos limites, T-singularidade, sistemas lineares suaves por partes)*
 * **Bacharelado em Matemática** — UFG *(lógica, equações diferenciais, EDOs, geometria)*
 
----
+-
 ## 🏅 Certificações
 
 ### Databricks
@@ -143,46 +143,43 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 - **CPA-20 — ANBIMA**
 - **C-Pro R — ANBIMA**
 
----
+-
 
 ## 📚 Formação Complementar
 
 ### 🤖 Machine Learning, Inteligência Artificial e MLOps
 
-- [MLflow: Gestão do Ciclo de Vida de Modelos de Machine Learning](./docs/formacao_complementar/ML%20Flow%20-%20Alura.pdf) — Alura
-- [Implantar e Consumir Modelos com Azure Machine Learning](./docs/formacao_complementar/Modelos%20com%20Azure%20-%20Microsoft.pdf) — Microsoft
-- [Otimizar o Treinamento de Modelos com Azure Machine Learning](./docs/formacao_complementar/Otimizar%20Modelos%20com%20Azure%20-%20Microsoft.pdf) — Microsoft
-- [Experimentar com Azure Machine Learning](./docs/formacao_complementar/Experimente%20com%20Azure%20-%20Microsoft.pdf) — Microsoft
-- [Explorar e Configurar o Azure Machine Learning](./docs/formacao_complementar/Explorar%20e%20Configurar%20Azure%20-%20Microsoft.pdf) — Microsoft
-- [Implementar uma Solução de Ciência de Dados e Machine Learning para IA](./docs/formacao_complementar/Implementar%20IA%20-%20Microsoft.pdf) — Microsoft
-- [Criar um Agente de IA](./docs/formacao_complementar/Criar%20um%20agente%20de%20IA%20-%20Microsoft.pdf) — Microsoft
-- [Inteligência Artificial — Fundamentos](./docs/formacao_complementar/IA%20Fundamentos%20-%20DSA.pdf) — Data Science Academy
+- [MLflow: Gestão do Ciclo de Vida de Modelos de Machine Learning](./docs/formacao_complementar/ML-Flow-Alura.pdf) — Alura
+- [Implantar e Consumir Modelos com Azure Machine Learning](./docs/formacao_complementar/Modelos-com-Azure-Microsoft.pdf) — Microsoft
+- [Otimizar o Treinamento de Modelos com Azure Machine Learning](./docs/formacao_complementar/Otimizar-Modelos-com-Azure-Microsoft.pdf) — Microsoft
+- [Experimentar com Azure Machine Learning](./docs/formacao_complementar/Experimente-com-Azure-Microsoft.pdf) — Microsoft
+- [Explorar e Configurar o Azure Machine Learning](./docs/formacao_complementar/Explorar-e-Configurar-Azure-Microsoft.pdf) — Microsoft
+- [Implementar uma Solução de Ciência de Dados e Machine Learning para IA](./docs/formacao_complementar/Implementar-IA-Microsoft.pdf) — Microsoft
+- [Criar um Agente de IA](./docs/formacao_complementar/Criar-um-agente-de-IA-Microsoft.pdf) — Microsoft
+- [Inteligência Artificial — Fundamentos](./docs/formacao_complementar/IA-Fundamentos-DSA.pdf) — Data Science Academy
 
 ### 🗄️ Engenharia e Plataformas de Dados
 
-- **DENG-156: Introducing Cloudera Data Warehouse** — Cloudera
-- **Cloudera Data Science Workbench Training** — Cloudera
-- **DENG-159: Cloudera Operational Database Fundamentals** — Cloudera
-- [Implementar um Lakehouse com Microsoft Fabric](./docs/formacao_complementar/Lakehouse%20Fabric%20-%20Microsoft.pdf) — Microsoft
-- [Data Analysis with Python](./docs/formacao_complementar/Data%20Analysis%20-%20Frre%20Code%20Camp.pdf) — freeCodeCamp
+- [Implementar um Lakehouse com Microsoft Fabric](./docs/formacao_complementar/Lakehouse-Fabric-Microsoft.pdf) — Microsoft
+- [Data Analysis with Python](./docs/formacao_complementar/Data-Analysis-Frre-Code-Camp.pdf) — freeCodeCamp
 
 ### 📊 Analytics e Visualização de Dados
 
-- [Power BI Aplicado a Negócios](./docs/formacao_complementar/Power%20BI%20-%20Voitto.pdf) — Grupo Voitto
-- [Python Interactive Dashboards with Plotly Dash](./docs/formacao_complementar/plotly%20-%20udemy.pdf) — Udemy
-- [Introdução à Ciência de Dados](./docs/formacao_complementar/Intro%20Ciência%20de%20Dados%20-%20FGV.pdf) — FGV
-- [Introdução à Ciência de Dados](./docs/formacao_complementar/Introducao%20ciencia%20de%20dados%20-%20DSA.pdf) — Data Science Academy
+- [Power BI Aplicado a Negócios](./docs/formacao_complementar/Power-BI-Voitto.pdf) — Grupo Voitto
+- [Python Interactive Dashboards with Plotly Dash](./docs/formacao_complementar/plotly-udemy.pdf) — Udemy
+- [Introdução à Ciência de Dados](./docs/formacao_complementar/Intro-Ciência-de-Dados-FGV.pdf) — FGV
+- [Introdução à Ciência de Dados](./docs/formacao_complementar/Introducao-ciencia-de-dados-DSA.pdf) — Data Science Academy
 
 ### 📈 Processos, Gestão e Negócios
 
-- [Gestão de Processos](./docs/formacao_complementar/Gestao%20de%20Processos%20-%20Alura.pdf) — Alura
-- [Gestão de Stakeholders](./docs/formacao_complementar/Gestao%20de%20Stakeholders%20-%20Alura.pdf) — Alura
-- [Gestão da Mudança](./docs/formacao_complementar/Gestão%20da%20mudanca%20-%20Alura.pdf) — Alura
+- [Gestão de Processos](./docs/formacao_complementar/Gestao-de-Processos-Alura.pdf) — Alura
+- [Gestão de Stakeholders](./docs/formacao_complementar/Gestao-de-Stakeholders-Alura.pdf) — Alura
+- [Gestão da Mudança](./docs/formacao_complementar/Gestão-da-mudanca-Alura.pdf) — Alura
 
 ### 🛠️ Ferramentas e Versionamento
 
-- [Git: do Básico ao Avançado](./docs/formacao_complementar/git%20-%20Udemy.pdf) — Udemy
----
+- [Git: do Básico ao Avançado](./docs/formacao_complementar/git-Udemy.pdf) — Udemy
+-
 ## 📬 Contato
 
 * [LinkedIn](https://www.linkedin.com/in/anamariaalves1/)

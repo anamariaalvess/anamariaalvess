@@ -128,33 +128,61 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * **Bacharelado em Matemática** — UFG *(lógica, equações diferenciais, EDOs, geometria)*
 
 ---
-## 📜 Certificações
-* **Academy Accreditation - AI Agent Fundamentals** — Código da credencial 189638001
-* **Academy Accreditation - Generative AI Fundamentals** — Código da credencial 189636891
-* **Academy Accreditation - Databricks Fundamentals** — Código da credencial 189633440
-* **CPA - Anbima**
-* **C-Pro R - Anbima** 
+## 🏅 Certificações
+
+### Databricks
+
+- **Academy Accreditation — AI Agent Fundamentals**
+- **Academy Accreditation — Generative AI Fundamentals**
+- **Academy Accreditation — Databricks Fundamentals**
+
+🔗 [Ver credenciais verificáveis](https://www.credential.net/profile/anamariaalvesdasilva132119/wallet)
+
+### Mercado Financeiro
+
+- **CPA-20 — ANBIMA**
+- **C-Pro R — ANBIMA**
 
 ---
 
-## 📚 Formação complementar
+## 📚 Formação Complementar
 
-* DENG-156: Introducing Cloudera Data Warehouse — Cloudera
-* Cloudera Data Science Workbench Training — Cloudera
-* DENG-159 Cloudera Operation Database Fundamentals — Cloudera
-* MLflow: gestão do ciclo de vida de modelos de Machine Learning — Alura
-* Power BI Aplicado a Negócios — Grupo Voitto
-* Data Analysis with Python — freeCodeCamp
-* SQL for Data Analysis — Udacity
-* Python Interactive Dashboards with Plotly Dash — Udemy
-* DBA Oracle Essencial — Udemy
-* Fundamentos de Inteligência Artificial no Microsoft Azure — Microsoft Learn
-* Inteligência Artificial: Fundamentos 2.0 — Data Science Academy
-* Introdução à Ciência de Dados 3.0 — Data Science Academy
-* Network Security Associate NSE 1, 2 e 3 — Fortinet
-* Git: do básico ao avançado — Udemy
+### 🤖 Machine Learning, Inteligência Artificial e MLOps
+
+- [MLflow: Gestão do Ciclo de Vida de Modelos de Machine Learning](./docs/formacao_complementar/ML%20Flow%20-%20Alura.pdf) — Alura
+- [Implantar e Consumir Modelos com Azure Machine Learning](./docs/formacao_complementar/Modelos%20com%20Azure%20-%20Microsoft.pdf) — Microsoft
+- [Otimizar o Treinamento de Modelos com Azure Machine Learning](./docs/formacao_complementar/Otimizar%20Modelos%20com%20Azure%20-%20Microsoft.pdf) — Microsoft
+- [Experimentar com Azure Machine Learning](./docs/formacao_complementar/Experimente%20com%20Azure%20-%20Microsoft.pdf) — Microsoft
+- [Explorar e Configurar o Azure Machine Learning](./docs/formacao_complementar/Explorar%20e%20Configurar%20Azure%20-%20Microsoft.pdf) — Microsoft
+- [Implementar uma Solução de Ciência de Dados e Machine Learning para IA](./docs/formacao_complementar/Implementar%20IA%20-%20Microsoft.pdf) — Microsoft
+- [Criar um Agente de IA](./docs/formacao_complementar/Criar%20um%20agente%20de%20IA%20-%20Microsoft.pdf) — Microsoft
+- [Inteligência Artificial — Fundamentos](./docs/formacao_complementar/IA%20Fundamentos%20-%20DSA.pdf) — Data Science Academy
+
+### 🗄️ Engenharia e Plataformas de Dados
+
+- **DENG-156: Introducing Cloudera Data Warehouse** — Cloudera
+- **Cloudera Data Science Workbench Training** — Cloudera
+- **DENG-159: Cloudera Operational Database Fundamentals** — Cloudera
+- [Implementar um Lakehouse com Microsoft Fabric](./docs/formacao_complementar/Lakehouse%20Fabric%20-%20Microsoft.pdf) — Microsoft
+- [Data Analysis with Python](./docs/formacao_complementar/Data%20Analysis%20-%20Frre%20Code%20Camp.pdf) — freeCodeCamp
+
+### 📊 Analytics e Visualização de Dados
+
+- [Power BI Aplicado a Negócios](./docs/formacao_complementar/Power%20BI%20-%20Voitto.pdf) — Grupo Voitto
+- [Python Interactive Dashboards with Plotly Dash](./docs/formacao_complementar/plotly%20-%20udemy.pdf) — Udemy
+- [Introdução à Ciência de Dados](./docs/formacao_complementar/Intro%20Ciência%20de%20Dados%20-%20FGV.pdf) — FGV
+- [Introdução à Ciência de Dados](./docs/formacao_complementar/Introducao%20ciencia%20de%20dados%20-%20DSA.pdf) — Data Science Academy
+
+### 📈 Processos, Gestão e Negócios
+
+- [Gestão de Processos](./docs/formacao_complementar/Gestao%20de%20Processos%20-%20Alura.pdf) — Alura
+- [Gestão de Stakeholders](./docs/formacao_complementar/Gestao%20de%20Stakeholders%20-%20Alura.pdf) — Alura
+- [Gestão da Mudança](./docs/formacao_complementar/Gestão%20da%20mudanca%20-%20Alura.pdf) — Alura
+
+### 🛠️ Ferramentas e Versionamento
+
+- [Git: do Básico ao Avançado](./docs/formacao_complementar/git%20-%20Udemy.pdf) — Udemy
 ---
-
 ## 📬 Contato
 
 * [LinkedIn](https://www.linkedin.com/in/anamariaalves1/)

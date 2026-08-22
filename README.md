@@ -10,8 +10,6 @@ Atualmente, combino conhecimentos matemáticos, estatísticos, tecnológicos e d
 
 > Os projetos profissionais nos quais atuei envolvem dados, regras e informações corporativas confidenciais. Por isso, os projetos públicos deste perfil utilizam dados públicos ou sintéticos para demonstrar metodologias equivalentes, sem expor informações das organizações.
 
--
-
 ## 🧭 Objetivos profissionais
 
 * Fomentar a cultura data-driven nas organizações.
@@ -20,8 +18,7 @@ Atualmente, combino conhecimentos matemáticos, estatísticos, tecnológicos e d
 * Implementar tecnologias e modelos orientados a dados que alavanquem novas fontes de receita ou eficiências operacionais.
 * Explorar e aplicar conhecimentos matemáticos, estatísticos e de machine learning em melhoria contínua.
 * Contribuir para ambientes colaborativos de aprendizado contínuo.
-
--
+---
 
 ## 💼 Experiência profissional
 ### Cientista de Dados — Indra Group
@@ -64,7 +61,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * Stack: Python, JavaScript, HTML, CSS, SQL, Docker.
 * Plataforma de ensino online para onboarding e capacitação dos usuários do produto.
 
--
+---
 
 ## 🎯 Áreas de atuação
 
@@ -82,7 +79,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * MLOps e rastreabilidade de experimentos
 * Storytelling e comunicação de resultados
 
--
+---
 
 ## 🛠️ Tecnologias
 
@@ -117,7 +114,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
--
+---
 
 
 ## 🎓 Formação acadêmica
@@ -127,7 +124,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 * **Mestrado em Matemática** — UFG *(sistemas dinâmicos, ciclos limites, T-singularidade, sistemas lineares suaves por partes)*
 * **Bacharelado em Matemática** — UFG *(lógica, equações diferenciais, EDOs, geometria)*
 
--
+---
 ## 🏅 Certificações
 
 ### Databricks
@@ -142,8 +139,8 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 
 - **CPA-20 — ANBIMA**
 - **C-Pro R — ANBIMA**
-
--
+  
+---
 
 ## 📚 Formação Complementar
 
@@ -179,7 +176,7 @@ Atuação em projetos de ciência de dados aplicados ao ciclo de crédito, anál
 ### 🛠️ Ferramentas e Versionamento
 
 - [Git: do Básico ao Avançado](./docs/formacao_complementar/git-Udemy.pdf) — Udemy
--
+---
 ## 📬 Contato
 
 * [LinkedIn](https://www.linkedin.com/in/anamariaalves1/)
